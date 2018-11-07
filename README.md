@@ -1,2 +1,2 @@
-# pttcrawler
-for learning 
+these code is for learning
+
